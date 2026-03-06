@@ -1,5 +1,7 @@
+Git Hub Instance: http://caraabrown.github.io/clarity
 
-http://www.getclarity.consulting/
+
+Live site: http://www.getclarity.consulting/
 
 URL registered with namecheap 
 
